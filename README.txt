@@ -1,0 +1,1 @@
+This software is slightly modified version of Spy Book Origami example at https://github.com/jaythrash/spy-book.
